@@ -1,0 +1,1 @@
+This project made use of XAMPP local database with a table named "users" and columns named "usersId", "usersName", "usersEmail", and "usersPwd". This would have been modified to accept another column called "userType" which would have been either "student" or "teacher" and would have enabled/disabled control over courses as required. 
